@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/eacb7daaa25e8c20b32c06c72a3d371e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/818a6411127e3f09665d875804ff1d17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/adba3bbec33b15174ab25d09ceec1b56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/5d93a6fcb30ab97649d0d95370e1218e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/f3a44bc3cb8bbe8ecca5904c6cf76087/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/14d9b10f7abc643ad9c9ee3dffb96dd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a7f0e96a52dd08abce41acf1b77886c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a41900ada5c205391e22f66828aaaacb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/e2e2973715591cc2d59a401bdf46043c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/297f8ef5861afbfe18b9e58c7a826780/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/8235f6c97ae68a91ce4475da785c0bb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/e5f525111bdafb73c6e1601cd3bdfbce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1d293d08a595ecc07e1d41ada0137a84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/3e3cdb6ff5e7f6c3a3bf8f464dd6c9d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/97628476275e020de0fc6d71940ba6a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a3170de4bcf20c38f19292c5b9914e9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/49a9a8954989bee672a3b402b5df4779/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/794167284a46ead6634672443aa1e72b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1677c143c9b7d82b9f005284052fd1a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/056e93880a242098da04159ca2919b88/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/8c44bf973957b2b8339f2ff169a49dd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/16548b4cd3d6f89823bd597da7d07868/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/895bc0aa2e14a9002f0da5680c0d1bc0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/cf3ff7c63fbc8a6a75f96df038c3a445/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2622034f1dcd578f375fd255ecaf9416/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/de113f574a8ef4c791c5184ee4f4bf5e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/0023d650c0771fca6bb57beb71d4c76a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/c38d0cde1add119de84b81070a008581/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:design:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/eacb7daaa25e8c20b32c06c72a3d371e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/eacb7daaa25e8c20b32c06c72a3d371e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/49a9a8954989bee672a3b402b5df4779/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/49a9a8954989bee672a3b402b5df4779/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/794167284a46ead6634672443aa1e72b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/794167284a46ead6634672443aa1e72b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/49a9a8954989bee672a3b402b5df4779/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml:27:19-47
+uses-sdk
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/eacb7daaa25e8c20b32c06c72a3d371e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/eacb7daaa25e8c20b32c06c72a3d371e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/818a6411127e3f09665d875804ff1d17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/818a6411127e3f09665d875804ff1d17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2444125bee1d19083e29676bcba0f605/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/f6f62c1a9c4bf412658069ee0dd0db0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/adba3bbec33b15174ab25d09ceec1b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/adba3bbec33b15174ab25d09ceec1b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/5d93a6fcb30ab97649d0d95370e1218e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/5d93a6fcb30ab97649d0d95370e1218e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/f3a44bc3cb8bbe8ecca5904c6cf76087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/f3a44bc3cb8bbe8ecca5904c6cf76087/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/14d9b10f7abc643ad9c9ee3dffb96dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/14d9b10f7abc643ad9c9ee3dffb96dd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a7f0e96a52dd08abce41acf1b77886c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a7f0e96a52dd08abce41acf1b77886c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a41900ada5c205391e22f66828aaaacb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a41900ada5c205391e22f66828aaaacb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/e2e2973715591cc2d59a401bdf46043c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/e2e2973715591cc2d59a401bdf46043c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/297f8ef5861afbfe18b9e58c7a826780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/297f8ef5861afbfe18b9e58c7a826780/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/8235f6c97ae68a91ce4475da785c0bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/8235f6c97ae68a91ce4475da785c0bb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/e5f525111bdafb73c6e1601cd3bdfbce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/e5f525111bdafb73c6e1601cd3bdfbce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1d293d08a595ecc07e1d41ada0137a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1d293d08a595ecc07e1d41ada0137a84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/3e3cdb6ff5e7f6c3a3bf8f464dd6c9d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/3e3cdb6ff5e7f6c3a3bf8f464dd6c9d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/97628476275e020de0fc6d71940ba6a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/97628476275e020de0fc6d71940ba6a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a3170de4bcf20c38f19292c5b9914e9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/a3170de4bcf20c38f19292c5b9914e9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/49a9a8954989bee672a3b402b5df4779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/49a9a8954989bee672a3b402b5df4779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/794167284a46ead6634672443aa1e72b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/794167284a46ead6634672443aa1e72b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1677c143c9b7d82b9f005284052fd1a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1677c143c9b7d82b9f005284052fd1a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/056e93880a242098da04159ca2919b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/056e93880a242098da04159ca2919b88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/8c44bf973957b2b8339f2ff169a49dd1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/8c44bf973957b2b8339f2ff169a49dd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/16548b4cd3d6f89823bd597da7d07868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/16548b4cd3d6f89823bd597da7d07868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/1514a5a925259a86ed265f74f8001a21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/895bc0aa2e14a9002f0da5680c0d1bc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/895bc0aa2e14a9002f0da5680c0d1bc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/cf3ff7c63fbc8a6a75f96df038c3a445/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/cf3ff7c63fbc8a6a75f96df038c3a445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2622034f1dcd578f375fd255ecaf9416/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/2622034f1dcd578f375fd255ecaf9416/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/de113f574a8ef4c791c5184ee4f4bf5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/de113f574a8ef4c791c5184ee4f4bf5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/0023d650c0771fca6bb57beb71d4c76a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/0023d650c0771fca6bb57beb71d4c76a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/c38d0cde1add119de84b81070a008581/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhongjinbao/.gradle/caches/transforms-2/files-2.1/c38d0cde1add119de84b81070a008581/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongjinbao/DanceCode/study/bytedance-android-camp-zju-2021/chapter-6/Demo/todolist/app/src/main/AndroidManifest.xml
