@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".LinearLayoutActivity">
+
+    <TextView
+        android:id="@+id/text01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:text="RelativeLayout"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text01"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:text="可以让里面的组件"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text01"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@+id/text02"
+        android:background="@android:color/holo_green_light"
+        android:text="灵活的控制"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/text04"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text02"
+        android:layout_margin="10dp"
+        android:layout_toRightOf="@+id/text02"
+        android:background="@android:color/holo_green_light"
+        android:text="相对之间的位置"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/holo_green_light"
+        android:text="位于父布局中间"
+        android:layout_centerInParent="true"
+        android:textSize="18sp" />
+
+</RelativeLayout>

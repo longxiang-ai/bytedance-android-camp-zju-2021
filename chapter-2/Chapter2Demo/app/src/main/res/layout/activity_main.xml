@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+
+
+    <Button
+        android:id="@+id/btn_linearlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LinearLayout" />
+
+    <Button
+        android:id="@+id/btn_relativelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RelativeLayout" />
+
+    <Button
+        android:id="@+id/btn_framelayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FrameLayout" />
+
+    <Button
+        android:id="@+id/btn_ui_widget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UI控件" />
+
+    <Button
+        android:id="@+id/btn_recyclerview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RecyclerView" />
+
+    <Button
+        android:id="@+id/btn_intent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="隐式Intent" />
+
+    <Button
+        android:id="@+id/btn_intent_for_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="start activity for result" />
+
+</LinearLayout>
